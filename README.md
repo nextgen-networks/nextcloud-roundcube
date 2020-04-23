@@ -1,4 +1,4 @@
-# owncloud-roundcube
+# nextcloud-roundcube
 nextcloud app to integrate RoundCube Webmail. The app embeds the [RoundCube webmail](https://roundcube.net/ "RoundCube's homepage") interface in nextcloud.
 
 # !!! attention - this project is in migration pase !!!
