@@ -4,13 +4,13 @@
 	<namespace>RoundCube</namespace>
 	<name>RoundCube Mail</name>
 	<licence>AGPL</licence>
-	<author>Martin Reinhardt; Leonardo R. Morelli</author>
-	<version>10.0.2</version>
+	<author>Martin Reinhardt; Leonardo R. Morelli; raupe @ Nextgen-Networks</author>
+	<version>1.0.3</version>
 	<dependencies>
-		<owncloud min-version="10" max-version="11.0" />
+		<nextcloud min-version="16" max-version="19" />
 	</dependencies>
 	<description>
-		Integrates existing roundcube into OwnCloud.
+		Integrates existing roundcube into Nextcloud.
 	</description>
 	<website>https://github.com/LeonardoRM/owncloud-roundcube/</website>
 </info>
